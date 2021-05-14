@@ -1,0 +1,55 @@
+h1{
+    color: firebrick;
+    text-decoration-color: brown;
+    text-decoration: underline;
+    font-family: Girassol;
+    text-align: center;
+}
+.Menu{
+      list-style: none;
+    font-family: Salsa;
+    position: absolute;
+    top: 0px;
+    padding-left: 500;
+    z-index: 10;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 0px;
+    background-color: aquamarine;
+}
+.links{
+     float: left;
+    text-align: center;
+    color: black;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 44px;
+    display: inline;
+}
+.links:hover{
+      color: firebrick;
+    background-color: greenyellow;
+    font-family: Concert One;
+    font-size: x-large;
+  }
+h2{
+    font-family: Galada;
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+    }
+body{
+    background-color: lightcyan;
+}
+h6{
+    text-align: center;
+}
+.link{
+    text-align: center;
+}
+h3{
+    font-family: Slackey;
+    color: white;
+}
